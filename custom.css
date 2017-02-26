@@ -1,0 +1,64 @@
+p{font-size:18;}
+
+.imagesize {height:200;
+width: 300;}
+
+.iconsizeone{font-size:40;
+color:#007bb6;}
+
+.iconsize {font-size:40;
+color: #3b5998;}
+
+.margin{margin-bottom:20px;}
+
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #e06274;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+body {
+    background-image: url("Night.jpg");
+    background-color: #cccccc;
+}
